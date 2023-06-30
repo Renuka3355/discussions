@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+.container1 {
+  background-color: #000000;
+  padding: 20px;
+}
+
+.container2 {
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.header {
+  font-size: 36px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.button {
+  background-color: #ffffff;
+  padding: 5px;
+  border: 1px;
+}
